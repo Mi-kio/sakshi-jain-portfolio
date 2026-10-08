@@ -749,14 +749,14 @@ footer {
 }
 
 .sakshi-triangles {
-  margin-left: 80px;
+  margin-left: 100px;
   margin-top:20px !important
 }
 
 .sakshi-triangles img {
   display: block;
   width: auto;
-  height: 400px;
+  height: 350px;
   max-width: 80%;
   object-fit: contain;
 }
@@ -770,7 +770,7 @@ footer {
   .sakshi-triangles img {
     width: 80%;
     height: auto;
-    max-height: 400px;
+    max-height: 350px;
     margin-inline: auto;
   }
 }
